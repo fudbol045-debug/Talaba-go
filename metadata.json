@@ -1,0 +1,6 @@
+{
+  "name": "TalabaGO — Talabalar uchun hammasi bir joyda",
+  "description": "Talabalar uchun mo‘ljallangan zamonaviy, ko‘p tilli va AI asosidagi platforma: diplom ishi, kurs ishi, referat, slayd generator, ma'ruzalar, ish va kvartira qidirish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
